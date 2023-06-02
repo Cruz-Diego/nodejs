@@ -1,0 +1,16 @@
+{
+  "name": "proyecto_de_node",
+  "version": "1.0.0",
+  "description": "mi primer proyecto de node ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "echo 'estamos en modo desarrollo'"
+  },
+  "author": "DiegoCruz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs-parser": "^21.1.1"
+  }
+}
